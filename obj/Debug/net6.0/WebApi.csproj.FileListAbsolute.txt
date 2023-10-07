@@ -1,0 +1,168 @@
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\appsettings.json
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.exe
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.deps.json
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.runtimeconfig.json
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.pdb
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\AutoMapper.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets.pack.json
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets.build.json
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets.development.json
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\refint\WebApi.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.pdb
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+E:\API\.Net Core\dotnet-6-crud-api-TM\obj\Debug\net6.0\ref\WebApi.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Azure.Core.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Azure.Identity.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Humanizer.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.CodeDom.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Memory.Data.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Text.Json.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\API\.Net Core\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\appsettings.json
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.exe
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.deps.json
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.runtimeconfig.json
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\WebApi.pdb
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\AutoMapper.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Azure.Core.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Azure.Identity.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Humanizer.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.CodeDom.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Memory.Data.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Text.Json.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets.pack.json
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets.build.json
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\staticwebassets.development.json
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\refint\WebApi.dll
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.pdb
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+E:\API\.Net Core\.Net Core Full Stack\dotnet-6-crud-api-TM\obj\Debug\net6.0\ref\WebApi.dll
